@@ -1,0 +1,24 @@
+.btn {
+    font-weight: 700;
+    border-radius: 300px;
+    text-transform: uppercase;
+    
+}
+
+.btn-warning {
+    background-color: darkgreen;
+    border-color: darkgreen;
+}
+
+button {
+    border-radius: 50%;
+    background-color: orangered;
+    border-color: orangered;
+    border-radius: 200px;
+    font-weight: 700;
+}
+
+.btn-primary {
+    background-color: wheat;
+    border-color: wheat;
+}
